@@ -1,0 +1,13 @@
+{
+    "branch": "master",
+    "owner": "business owner",
+    "testers" : {
+        "test1" : "test1@email.com"
+    },
+    "developers" : {
+        "dev1" : "dev1@email.com"
+    },
+    "deployers" : {
+        "deploy1" : "deploy1@email.com"
+    },
+}
